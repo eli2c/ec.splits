@@ -4,7 +4,7 @@
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [no](https://github.com/no)
+* Keyboard Maintainer: [ec.splits](https://github.com/eli2c/ec.splits)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
 
