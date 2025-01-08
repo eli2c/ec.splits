@@ -1,7 +1,7 @@
 {
-    "manufacturer": "elisz",
+    "manufacturer": "ec.splits",
     "keyboard_name": "ergo_handwire",
-    "maintainer": "elisz",
+    "maintainer": "ec.splits",
     "bootloader": "caterina",
     "diode_direction": "COL2ROW",
     "features": {
